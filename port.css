@@ -1,0 +1,124 @@
+*{
+    font-family: candara;
+}
+#main{
+    width: 100%; margin: 0 auto;
+}
+#topo{
+    position:absolute;width:50%;top: 10px; height: 70px; background-color: rgb(25, 64, 136);float: left;
+}
+#menu{
+    position: absolute;top: 50px;left: 8px; width: 50%; height: 20px; background-color: rgb(25, 64, 136); float: left;
+}
+#imagemP{
+    position: absolute;top: 0px;left: 50%; width: 50%;height: 670px;float: right;
+}
+#imagemF{
+    position: relative;bottom: 0%;top: 1150px; width: 50%;height: 670px; float: left;
+}
+#conteudo{
+   position:absolute; top:70px; width:49.38%; height: 600px; background-color: rgb(25, 64, 136); float: left;
+}
+#sobremim{
+    position: absolute; top: 670px;width: 100%; height: 500px; background-color: rgb(163, 189, 223);float: left;
+}
+
+#habilidades{
+    position: relative; top: 1150px;width: 100%; height: 500px; background-color: rgb(222, 232, 252);float: left;
+}
+#contato{
+    position: relative;top:1150px;width: 50%; height: 670px; background-color: rgb(25, 64, 136); float: right;
+}
+#tabela1{
+    position: absolute;top: 140px;left: 1%;width: 20%; height: 280px; background-color: rgb(163, 189, 223); border-radius: 10px;border: 2px solid rgba(25, 64, 136, 0.419);box-shadow:2px 4px 4px rgb(25, 64, 136);
+}
+#tabela2{
+    position: absolute;top: 140px;left: 27%;width: 20%; height: 280px; background-color: rgb(163, 189, 223); border-radius: 10px;border: 2px solid rgba(25, 64, 136, 0.419);box-shadow:2px 4px 4px rgb(25, 64, 136);
+}
+#tabela3{
+    position: absolute;top: 140px;right: 27%;width: 20%; height: 280px;background-color: rgb(163, 189, 223); border-radius: 10px;border: 2px solid rgba(25, 64, 136, 0.419);box-shadow:2px 4px 4px rgb(25, 64, 136);
+}
+#tabela4{
+    position: absolute;top: 140px;right: 1%;width: 20%; height: 280px;background-color: rgb(163, 189, 223); border-radius: 10px;border: 2px solid rgba(25, 64, 136, 0.419);box-shadow:2px 4px 4px rgb(25, 64, 136);
+}
+
+header{
+    color: rgb(163, 189, 223);
+    font-size: 22px;
+    
+}
+nav{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+}
+
+article h1{
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    font-size: 94px;
+}
+article h3{
+    font-size: 25px;
+    font-weight: lighter;
+    color: rgb(163, 189, 223);
+}
+article p{
+    font-size: 22px;
+    font-weight: lighter;
+    color: rgb(163, 189, 223);
+}
+body{
+    background-color:rgb(163, 189, 223);
+}
+p.legenda{
+    font-size: 16px;
+    position: relative;
+    left: 10%;
+}
+p.centro{
+    text-align: center;
+}
+p.styleSM{
+    font-size:46px;
+    color: rgb(35, 58, 56);
+}
+p.posiçSM{
+    font-size:20px;
+    color: rgb(35, 58, 56);
+    position: relative;
+    left:auto;
+}
+.foto{
+    position: absolute;
+    max-width: 25%;
+    max-height: 25%;
+    width: auto;
+    height: auto;
+    border-radius: 50%;
+    top:260px; left: 45%;
+}
+.imagem{
+    max-width: 100%;
+    width: auto;
+    height: 100%;
+}
+img.instagram{
+    position: absolute;
+    top: 40%;
+    left: 29%;
+}
+img.linkedin{
+    position: absolute;
+    top: 50%;
+    left: 29%;
+}
+img.git{
+    position: absolute;
+    top: 60%;
+    left: 30%;
+}
+img.mail{
+    position: absolute;
+    top: 70%;
+    left: 29%;
+}
